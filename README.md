@@ -13,3 +13,6 @@ PROJECT 2:
 
   This is the project above "recreated" somewhat in OpenSCAD.
   This is the file named PROJ_2
+
+FOR THE FINAL PROJECT
+  I am adding the js script and the index html. The assets folder will contain everything but the object and material files. Below is a     url to the google drive where I have these located.
