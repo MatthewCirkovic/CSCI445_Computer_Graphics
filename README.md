@@ -17,3 +17,4 @@ PROJECT 2:
 FOR THE FINAL PROJECT:
 
   I am adding the js script and the index html. The assets folder is available via the direct link below.
+  https://drive.google.com/drive/folders/1CdlkiuTCOtZ-TLn0qIojZE0gzhwRJ4Ta
